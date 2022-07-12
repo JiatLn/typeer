@@ -1,7 +1,7 @@
 {
   "name": "typeer",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@7.2.1",
   "description": "",
   "author": {
@@ -15,7 +15,10 @@
     "url": "git+https://github.com/jiatln/typeer.git"
   },
   "bugs": "https://github.com/jiatln/typeer/issues",
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "typeer"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
