@@ -1,7 +1,8 @@
 # Typeer
 
-[![NPM version](https://img.shields.io/npm/v/typper?color=a1b858&label=)](https://www.npmjs.com/package/typper)
+[![NPM version](https://img.shields.io/npm/v/typeer?color=a1b858&label=)](https://www.npmjs.com/package/typeer)
  
+ TODO
 
 ## License
 
